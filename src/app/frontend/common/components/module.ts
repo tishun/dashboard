@@ -21,6 +21,7 @@ import {ActionbarComponent} from './actionbar/component';
 import {ActionbarDetailActionsComponent} from './actionbar/detailactions/component';
 import {ActionbarDetailDeleteComponent} from './actionbar/detailactions/delete/component';
 import {ActionbarDetailEditComponent} from './actionbar/detailactions/edit/component';
+import {SuspendActionbarComponent} from './actionbars/cronjobdetail/component';
 import {DefaultDetailsActionbar} from './actionbars/defaultdetail/component';
 import {ScaleableResourceDetailActionbar} from './actionbars/scaleableresourcedetail/component';
 import {AllocationChartComponent} from './allocationchart/component';
@@ -129,6 +130,7 @@ import {ZeroStateComponent} from './zerostate/component';
     ActionbarDetailActionsComponent,
     ActionbarDetailDeleteComponent,
     ActionbarDetailEditComponent,
+    SuspendActionbarComponent,
     UploadFileComponent,
     DefaultDetailsActionbar,
     ScaleableResourceDetailActionbar,
@@ -178,6 +180,7 @@ import {ZeroStateComponent} from './zerostate/component';
     ActionbarDetailActionsComponent,
     ActionbarDetailDeleteComponent,
     ActionbarDetailEditComponent,
+    SuspendActionbarComponent,
     UploadFileComponent,
     DefaultDetailsActionbar,
     ScaleableResourceDetailActionbar,
